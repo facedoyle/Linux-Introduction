@@ -28,3 +28,9 @@ The `chmod` command was used to update the permissions and align them with polic
 
 ```bash
 chmod o-w project_k.txt
+```
+![Screenshot of file CLI](screenshot1.png)
+
+
+
+
